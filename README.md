@@ -1,0 +1,2 @@
+# Array-Animation
+This project was created for a school assignment. The goal of the assignment was to write a Python program that uses arrays to animate a cluster of graphical objects so that it creates an interesting or entertaining scene. I decided to animate a scene with a cartoon cat and a popcorn machine. I animated the popcorn using arrays by drawing the objects, updating their positions, updating the screen and sleeping ,and deleting them.
